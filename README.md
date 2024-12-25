@@ -39,7 +39,7 @@ cron-expression-parser/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cron-expression-parser.git
+   git clone https://github.com/piehostHQ/cronjob.git
    cd cron-expression-parser
    ```
 
